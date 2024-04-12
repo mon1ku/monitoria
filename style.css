@@ -1,0 +1,27 @@
+body {
+    background-color: #e9abe6;
+    margin: auto;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    padding: 1px;
+}
+
+nav {
+    background-color: #92378e;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 400px;
+    margin-top: 75px;
+    border: 5px solid #92378e;
+    border-radius: 15px;
+}
